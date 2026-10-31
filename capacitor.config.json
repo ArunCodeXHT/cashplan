@@ -1,0 +1,7 @@
+{
+  "appId": "com.cashplan.app",
+  "appName": "Cash Plan",
+  "webDir": "www",
+  "backgroundColor": "#f3f1ec",
+  "android": { "allowMixedContent": false }
+}
